@@ -1,0 +1,21 @@
+Hospital Manegment System
+
+1.MANAGE PATIENTS
+.admit patient
+.print patient
+.search patient
+
+2.MANAGE DOCTORS
+.hire doctor
+.print doctor
+.search doctor
+.remove doctor
+
+3.MANAGE ROOMS
+.check room status
+.move patient in room
+.check moved patients
+.move doctors in room
+.check moved doctors
+.assign patients to doctors
+ 
